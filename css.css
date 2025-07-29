@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: skyblue;
+}
+form input, form textarea {
+    width: 300px;
+    margin: 5px 0;
+    padding: 6px;
+}
+table {
+    background: white;
+    border-collapse: collapse;
+    width: 100%;
+}
+th {
+    background: #eee;
+}
+td, th {
+    padding: 8px;
+    border: 1px solid #ccc;
+}
